@@ -1,0 +1,57 @@
+/* Themify Customize Styling */
+body {	
+	background-color: #ef3742;
+	background-color: rgba(239,55,66,1); 
+}
+a:hover {	
+	color: #ef3742;
+	color: rgba(239,55,66,1); 
+}
+#content {	
+	padding: 0px; 
+}
+h3 {	
+	color: #ffffff;
+	color: rgba(255,255,255,1.00); 
+}
+h4 {	
+	font-family:Arial, Helvetica, sans-serif;
+	color: #ffffff;
+	color: rgba(255,255,255,1.00); 
+}
+h5 {	
+	color: #ffffff;
+	color: rgba(255,255,255,1.00); 
+}
+#headerwrap {	
+	padding: 0px; 
+}
+#header {	
+	padding-top: 0px;
+	padding-bottom: 0px; 
+}
+#site-logo {		position:relative;
+
+	bottom: 10px;
+	left: 0px; 
+}
+#site-logo img {		width: 150px;
+	height: 150px; 
+}
+#site-logo a {		width: 150px; 
+}
+#site-description {		position:absolute;
+ 
+}
+.module-title {	
+	color: #0d0d0d;
+	color: rgba(13,13,13,1.00); 
+}
+
+/* Themify Custom CSS */
+body{
+	  font-family: "Cantarell" sans-serif; 
+}
+#headerwrap {
+	  max-height: 159px;
+}
